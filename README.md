@@ -7,7 +7,18 @@
 <p>I'm Miguel and I'm a finalist in Computer Engineering Degree. I like cybersecurity, mainly pentesting and also developing web applications. </p>
 <p>I enjoy learning new things constantly and accepting new challenges.</p>
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=duke-the-1998)
+
+<a href="https://github.com/duke-the-1998/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duke-the-1998&include_all_commits=true&&show_icons=true&theme=dark" />
+</a>
+
+<br>
+
+<a href="https://github.com/duke-the-1998/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duke-the-1998&langs_count=8&theme=dark" />
+</a>
+
+
 
 
 
