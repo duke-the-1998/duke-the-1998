@@ -2,6 +2,16 @@
   <img src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/200w.webp?cid=ecf05e479e5y4mkxv401xvxk7a2t4el6lzgy78dm6nlbei0i&rid=200w.webp&ct=g" width="300"/>
 </div>
 
+
+ <HEAD>
+	    <TITLE>
+	      About me:
+	    </TITLE>
+	  </HEAD>
+
+
+
+
 <!--
 **duke-the-1998/duke-the-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
