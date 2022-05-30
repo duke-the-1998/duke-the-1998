@@ -3,11 +3,11 @@
 </div>
 
 
- <HEAD>
-	    <TITLE>
+ <head>
+	<title>
 	      About me:
-	    </TITLE>
-	  </HEAD>
+	    </title>
+</head>
 
 
 
