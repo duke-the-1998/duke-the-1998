@@ -4,7 +4,8 @@
 
 
  <head>  About me: </head>
-
+<p>I'm Miguel and I'm a finalist in Computer Engineering Degree. I like cybersecurity, mainly pentesting and also developing web applications. </p>
+<p></p>
 
 
 
