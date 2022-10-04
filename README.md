@@ -4,7 +4,7 @@
 
 
  <head>  About me: </head>
-<p>I'm Miguel and I'm a finalist in Computer Engineering Degree. I like cybersecurity, mainly pentesting and also developing web applications. </p>
+<p>I'm Miguel and I'm a finalist in Computer Engineering Degree. I'm interested in cybersecurity, especially OSINT and pentesting and also developing web applications. </p>
 <p>I enjoy learning new things constantly and accepting new challenges.</p>
 
 <br>
