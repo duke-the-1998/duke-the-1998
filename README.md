@@ -4,7 +4,7 @@
 
 
  <head>  About me: </head>
-<p>I'm Miguel and I'm a finalist in Computer Engineering Degree. I'm interested in cybersecurity, especially OSINT and pentesting and also developing web applications. </p>
+<p>A dedicated individual who holds a degree in Computer Engineering, specializing in cybersecurity. With a strong interest in penetration testing (pentesting) and Open Source Intelligence (OSINT). My passion for cybersecurity extends to Cyber Threat Intelligence, where I aim to analyze and mitigate risks effectively. In addition to my cybersecurity focus, I have a keen interest in electronics and actively develop web applications and some cybersecurity tools. </p>
 <p>I enjoy learning new things constantly and accepting new challenges.</p>
 
 <br>
